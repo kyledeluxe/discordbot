@@ -55,4 +55,4 @@ if(commandfile) commandfile.run(bot,message,args);
 
 });
 
-bot.login(process.env.TOKEN);
+bot.login(process.env.token);
